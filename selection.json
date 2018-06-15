@@ -22,7 +22,7 @@
       "properties": {
         "order": 35,
         "id": 29,
-        "name": "empty star.3",
+        "name": "star",
         "prevSize": 32,
         "code": 59670
       },
@@ -60,7 +60,7 @@
       "properties": {
         "order": 34,
         "id": 28,
-        "name": "gallery.1.3",
+        "name": "photos",
         "prevSize": 32,
         "code": 59671
       },
@@ -174,7 +174,7 @@
       "properties": {
         "order": 31,
         "id": 25,
-        "name": "caffe-mug",
+        "name": "coffee",
         "prevSize": 32,
         "code": 59674
       },
@@ -236,7 +236,7 @@
       "properties": {
         "order": 30,
         "id": 24,
-        "name": "crain truck.1",
+        "name": "construction",
         "prevSize": 32,
         "code": 59675
       },
@@ -277,7 +277,7 @@
       "properties": {
         "order": 28,
         "id": 23,
-        "name": "gift box.1",
+        "name": "gift",
         "prevSize": 32,
         "code": 59676
       },
@@ -306,7 +306,7 @@
       "properties": {
         "order": 27,
         "id": 22,
-        "name": "new tag.1.3",
+        "name": "new",
         "prevSize": 32,
         "code": 59677
       },
@@ -379,7 +379,7 @@
       "properties": {
         "order": 9,
         "id": 20,
-        "name": "contact-book.1.2",
+        "name": "book",
         "prevSize": 32,
         "code": 59649
       },
@@ -408,7 +408,7 @@
       "properties": {
         "order": 10,
         "id": 19,
-        "name": "house.6.1",
+        "name": "house",
         "prevSize": 32,
         "code": 59650
       },
@@ -440,7 +440,7 @@
       "properties": {
         "order": 11,
         "id": 17,
-        "name": "old-clock.1",
+        "name": "clock",
         "prevSize": 32,
         "code": 59651
       },
@@ -475,7 +475,7 @@
       "properties": {
         "order": 12,
         "id": 16,
-        "name": "binocular",
+        "name": "find",
         "prevSize": 32,
         "code": 59652
       },
@@ -516,7 +516,7 @@
       "properties": {
         "order": 13,
         "id": 15,
-        "name": "hanger.2",
+        "name": "clothes",
         "prevSize": 32,
         "code": 59653
       },
@@ -603,7 +603,7 @@
       "properties": {
         "order": 16,
         "id": 12,
-        "name": "couch.2",
+        "name": "couch",
         "prevSize": 32,
         "code": 59656
       },
@@ -632,7 +632,7 @@
       "properties": {
         "order": 17,
         "id": 11,
-        "name": "bed.3",
+        "name": "bed",
         "prevSize": 32,
         "code": 59657
       },
@@ -685,7 +685,7 @@
       "properties": {
         "order": 18,
         "id": 10,
-        "name": "shower.2",
+        "name": "shower",
         "prevSize": 32,
         "code": 59658
       },
@@ -729,7 +729,7 @@
       "properties": {
         "order": 19,
         "id": 9,
-        "name": "jeans.1",
+        "name": "jeans",
         "prevSize": 32,
         "code": 59659
       },
@@ -761,7 +761,7 @@
       "properties": {
         "order": 20,
         "id": 8,
-        "name": "lady'-s-t-shirt",
+        "name": "shirt",
         "prevSize": 32,
         "code": 59660
       },
@@ -831,7 +831,7 @@
       "properties": {
         "order": 22,
         "id": 6,
-        "name": "coat.1",
+        "name": "coat",
         "prevSize": 32,
         "code": 59662
       },
@@ -913,7 +913,7 @@
       "properties": {
         "order": 24,
         "id": 4,
-        "name": "sport-shoe.2",
+        "name": "shoe",
         "prevSize": 32,
         "code": 59664
       },
@@ -977,7 +977,7 @@
       "properties": {
         "order": 26,
         "id": 2,
-        "name": "baseball-cap",
+        "name": "hat",
         "prevSize": 32,
         "code": 59666
       },
@@ -1041,7 +1041,7 @@
       "properties": {
         "order": 7,
         "id": 0,
-        "name": "Hair",
+        "name": "hair",
         "prevSize": 32,
         "code": 59668
       },
