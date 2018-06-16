@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?t2d1d8');
-  src:  url('fonts/icomoon.eot?t2d1d8#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?t2d1d8') format('truetype'),
-    url('fonts/icomoon.woff?t2d1d8') format('woff'),
-    url('fonts/icomoon.svg?t2d1d8#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?yenph3');
+  src:  url('fonts/icomoon.eot?yenph3#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?yenph3') format('truetype'),
+    url('fonts/icomoon.woff?yenph3') format('woff'),
+    url('fonts/icomoon.svg?yenph3#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,21 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-reblog:before {
+  content: "\e91e";
+}
+.icon-like-empty:before {
+  content: "\e91f";
+}
+.icon-like-full:before {
+  content: "\e920";
+}
+.icon-Left:before {
+  content: "\e921";
+}
+.icon-Right:before {
+  content: "\e922";
+}
 .icon-star:before {
   content: "\e916";
 }
